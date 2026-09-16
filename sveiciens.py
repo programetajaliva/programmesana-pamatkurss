@@ -1,1 +1,3 @@
-print(/Mans pirmais commit!/)
+print("Nomaina sveiciena tekstu")
+
+
