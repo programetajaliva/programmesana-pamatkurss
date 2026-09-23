@@ -1,3 +1,0 @@
-print("Nomaina sveiciena teksts")
-
-
