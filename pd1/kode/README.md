@@ -5,3 +5,5 @@ Autors: **Līva Kārkliņa**
 - 
 - 
 - 
+
+Grūtākais solis šajā darbā bija atcerēties par pareizu stāju, jo, rakstot kodu, ir viegli aizmirst par ergonomiku.
