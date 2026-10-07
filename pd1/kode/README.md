@@ -2,6 +2,6 @@
 Autors: **Līva Kārkliņa**
 ## Palaišana
 ## Ergonomika
--
--
--
+- 
+- 
+- 
