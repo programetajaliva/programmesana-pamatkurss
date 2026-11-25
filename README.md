@@ -9,6 +9,15 @@ MIT licence ir viena no populārākajām bezmaksas programmatūras licencēm, ka
  ## md. ##
  Markdown (.md) fails no parasta teksta faila atšķiras ar to, ka tajā iebūvētais kods kalpo kā universāla instrukcija datoram, kā šo tekstu vizuāli noformēt un strukturēt jebkurā platformā, saglabājot failu tikpat vieglu un nemainīgu kā parastu tekstā failu. 
 
+str = a
+int = b
+float = c
+
+3.4
+3
+2
+8
+
 
 
 
