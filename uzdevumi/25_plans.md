@@ -17,10 +17,10 @@
 
 ## | Mainīgā vārds | Datu tips | Ko glabā |
 ### | :--------------| :----------: | ------------------------:|
-### | speletaja_vards | str | Spēlētāja ievadīto vārdu |
+### | speletaja_vards | int | Spēlētāja ievadīto vārdu |
 ### | maksimalais_skaitlis | int | Lielāko iespējamo minamo skaitli |
 ### | meginajumu_skaits | int | Cik reizes spēlētājs jau ir minējis |
-### | punkti` | float | Spēlētāja nopelnīto punktu skaitu |
+### | punkti` | int | Spēlētāja nopelnīto punktu skaitu |
 
 ### Formula
 `punkti = maksimalais_skaitlis / meginajumu_skaits`
