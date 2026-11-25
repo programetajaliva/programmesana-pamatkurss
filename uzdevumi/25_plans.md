@@ -29,3 +29,12 @@
 * **No `input()` nāk:** `speletaja_vards`, `maksimalais_skaitlis`
 * **Tiek izrēķināts:** `punkti` (un `meginajumu_skaits` palielinās pēc katra minējuma)
 
+
+## Formulas pārbaude (testa vērtības)
+* **Mazs komplekts:** `maksimalais_skaitlis = 10`, `meginajumu_skaits = 2` -> Rezultāts ar roku: `punkti = 5.0`
+* **Vidējs komplekts:** `maksimalais_skaitlis = 50`, `meginajumu_skaits = 4` -> Rezultāts ar roku: `punkti = 12.5`
+* **Liels komplekts:** `maksimalais_skaitlis = 1000`, `meginajumu_skaits = 8` -> Rezultāts ar roku: `punkti = 125.0`
+
+### Secinājums
+Formulu ir vērts pārbaudīt ar roku pirms programmas rakstīšanas, lai laikus pamanītu aprēķinu vai loģikas kļūdas (piemēram, dalīšanu ar nulli) un pārliecinātos, ka dators dod pareizu rezultātu.
+
